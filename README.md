@@ -1,2 +1,3 @@
-# Prony_based_algorithms
-Amplitude and phase estimations using Prony based algorithms
+# Prony bbased algorithms
+
+Amplitude and phase estimatiors using Prony based algorithms
